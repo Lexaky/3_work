@@ -1,0 +1,5 @@
+first string
+second string: "any sentence"
+check another string (third string)
+
+still string
